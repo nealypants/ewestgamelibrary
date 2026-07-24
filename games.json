@@ -1,0 +1,1624 @@
+[
+ {
+  "t": "Arkham Horror (3rd Ed.) + Secrets of the Order & Under Dark Waves exps.",
+  "theme": "Lovecraftian horror",
+  "tags": [
+   "Horror",
+   "Lovecraft"
+  ],
+  "type": "Co-op adventure",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "sum": "Investigators comb Arkham's neighborhoods for clues to stop an eldritch doom; two big expansions add Innsmouth and more."
+ },
+ {
+  "t": "Elder Sign",
+  "theme": "Lovecraftian horror",
+  "tags": [
+   "Horror",
+   "Lovecraft"
+  ],
+  "type": "Co-op dice game",
+  "min": 1,
+  "max": 8,
+  "mode": "Co-op",
+  "sum": "Race a doom clock, rolling dice to seal an Ancient One inside a haunted museum."
+ },
+ {
+  "t": "The Road to Innsmouth (Deluxe Ed.)",
+  "theme": "Lovecraftian horror",
+  "tags": [
+   "Horror",
+   "Lovecraft",
+   "Escape room"
+  ],
+  "type": "Interactive escape adventure",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "v": true,
+  "sum": "A puzzle-driven escape adventure set in Arkham Horror's cursed fishing town."
+ },
+ {
+  "t": "Mansions of Madness (2nd Ed.)",
+  "theme": "Lovecraftian horror",
+  "tags": [
+   "Horror",
+   "Lovecraft"
+  ],
+  "type": "App-driven exploration",
+  "min": 1,
+  "max": 5,
+  "mode": "Co-op",
+  "sum": "An app runs the haunted estate while players explore, solve puzzles, and slowly lose their minds."
+ },
+ {
+  "t": "Unfathomable",
+  "theme": "Lovecraftian horror",
+  "tags": [
+   "Horror",
+   "Lovecraft"
+  ],
+  "type": "Hidden traitor",
+  "min": 3,
+  "max": 6,
+  "mode": "Semi-co-op",
+  "sum": "Crew a 1913 steamship under Deep One attack while hidden hybrid traitors sabotage from within."
+ },
+ {
+  "t": "Betrayal at House on the Hill (2nd Ed.)",
+  "theme": "Haunted house",
+  "tags": [
+   "Horror"
+  ],
+  "type": "Hidden traitor / exploration",
+  "min": 3,
+  "max": 6,
+  "mode": "Semi-co-op",
+  "sum": "Explore a growing haunted house until one player turns traitor in a randomly drawn haunt."
+ },
+ {
+  "t": "Betrayal at House on the Hill (3rd Ed.)",
+  "theme": "Haunted house",
+  "tags": [
+   "Horror"
+  ],
+  "type": "Hidden traitor / exploration",
+  "min": 3,
+  "max": 6,
+  "mode": "Semi-co-op",
+  "sum": "The streamlined current edition with all-new haunts — and the base the Yuletide Tale expansion plugs into."
+ },
+ {
+  "t": "Betrayal Legacy (x2 copies)",
+  "theme": "Haunted house",
+  "tags": [
+   "Horror",
+   "Campaign"
+  ],
+  "type": "Legacy hidden traitor",
+  "min": 3,
+  "max": 5,
+  "mode": "Semi-co-op",
+  "sum": "A multi-generation campaign where the house remembers your family's sins between games."
+ },
+ {
+  "t": "Betrayal at Baldur's Gate",
+  "theme": "D&D horror",
+  "tags": [
+   "Horror",
+   "D&D"
+  ],
+  "type": "Hidden traitor / exploration",
+  "min": 3,
+  "max": 6,
+  "mode": "Semi-co-op",
+  "sum": "Betrayal's haunt system relocated to the streets and sewers of Baldur's Gate."
+ },
+ {
+  "t": "Betrayal: The Yuletide Tale (exp.)",
+  "theme": "Holiday horror",
+  "tags": [
+   "Horror"
+  ],
+  "type": "Expansion for Betrayal 3rd Ed.",
+  "min": 3,
+  "max": 6,
+  "mode": "Semi-co-op",
+  "sum": "Krampus-flavored holiday haunts for your 3rd Edition — a natural December game night pick."
+ },
+ {
+  "t": "Betrayal Deck of Lost Souls",
+  "theme": "Occult horror",
+  "tags": [
+   "Horror",
+   "Deduction"
+  ],
+  "type": "Secret-role card game",
+  "min": 3,
+  "max": 5,
+  "mode": "Semi-co-op",
+  "sum": "A 20-minute tarot-styled card game: defeat the Curse together while a possible traitor works against you."
+ },
+ {
+  "t": "Dead of Winter",
+  "theme": "Zombie survival",
+  "tags": [
+   "Horror",
+   "Zombies"
+  ],
+  "type": "Semi-co-op, secret objectives",
+  "min": 2,
+  "max": 5,
+  "mode": "Semi-co-op",
+  "sum": "A colony battles cold, zombies, and morale while every survivor pursues a hidden agenda."
+ },
+ {
+  "t": "Last Night on Earth",
+  "theme": "Zombie B-movie",
+  "tags": [
+   "Horror",
+   "Zombies"
+  ],
+  "type": "One vs. many scenarios",
+  "min": 2,
+  "max": 6,
+  "mode": "Team",
+  "sum": "Small-town heroes face off against zombie-controlling players in cinematic scenarios."
+ },
+ {
+  "t": "District-Z",
+  "theme": "Zombie escape",
+  "tags": [
+   "Horror",
+   "Zombies"
+  ],
+  "type": "Card & dice survival race",
+  "min": 1,
+  "max": 4,
+  "mode": "Semi-co-op",
+  "sum": "Fight through a randomly built city of undead — first survivor to reach the City's Edge wins."
+ },
+ {
+  "t": "Camp Grizzly (2nd Ed.) + Camp Grounds exp.",
+  "theme": "'80s slasher",
+  "tags": [
+   "Horror",
+   "Slasher"
+  ],
+  "type": "Survival horror",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "sum": "Counselors scramble to escape Camp Nakwakto before Otis, the bear-masked killer, finds them."
+ },
+ {
+  "t": "Final Girl (Series 1 + films)",
+  "theme": "Slasher film",
+  "tags": [
+   "Horror",
+   "Slasher",
+   "Solo"
+  ],
+  "type": "Solo tableau / dice",
+  "min": 1,
+  "max": 1,
+  "mode": "Solo",
+  "sum": "You are the last one standing against a horror-movie killer; swappable film boxes change villain and location."
+ },
+ {
+  "t": "Lobotomy + From the Deep exp.",
+  "theme": "Asylum horror",
+  "tags": [
+   "Horror"
+  ],
+  "type": "Co-op miniatures crawl",
+  "min": 1,
+  "max": 5,
+  "mode": "Co-op",
+  "v": true,
+  "sum": "Patients fight through hallucinated horrors, room by room, to escape the asylum."
+ },
+ {
+  "t": "New Salem",
+  "theme": "Witch hunt",
+  "tags": [
+   "Horror",
+   "Deduction"
+  ],
+  "type": "Hidden role",
+  "min": 3,
+  "max": 8,
+  "mode": "Semi-co-op",
+  "sum": "Puritans build their village while hidden witches quietly spread despair."
+ },
+ {
+  "t": "Buffy the Vampire Slayer: The Board Game (Jasco)",
+  "theme": "TV horror",
+  "tags": [
+   "Horror"
+  ],
+  "type": "Co-op board game",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "v": true,
+  "sum": "The Scoobies patrol Sunnydale, clearing threats before the Big Bad completes its plan."
+ },
+ {
+  "t": "Buffy the Vampire Slayer: The Game (Milton Bradley, 2000)",
+  "theme": "TV horror",
+  "tags": [
+   "Horror",
+   "Classic"
+  ],
+  "type": "Adventure, one vs. many",
+  "min": 2,
+  "max": 5,
+  "mode": "Team",
+  "sum": "The vintage Buffy board game — heroes race the forces of darkness across Sunnydale."
+ },
+ {
+  "t": "Vampire: The Masquerade Rivals — The Hunters & The Hunted",
+  "theme": "World of Darkness",
+  "tags": [
+   "Horror",
+   "Cards"
+  ],
+  "type": "Expandable card game",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Vampire coteries and Hunter cells battle for the city in the Rivals ECG line."
+ },
+ {
+  "t": "American Psycho: A Killer Game",
+  "theme": "'80s yuppie satire",
+  "tags": [
+   "Horror",
+   "Cards"
+  ],
+  "type": "Trick-taking",
+  "min": 2,
+  "max": 5,
+  "mode": "Competitive",
+  "sum": "Trick-taking one-upmanship at Pierce & Pierce, where a killer suit trumps every meeting and bodies pile up as negative points."
+ },
+ {
+  "t": "Infected",
+  "theme": "Outbreak paranoia",
+  "tags": [
+   "Horror",
+   "Deduction"
+  ],
+  "type": "Hidden role",
+  "min": 5,
+  "max": 12,
+  "mode": "Semi-co-op",
+  "v": true,
+  "sum": "A big-group hidden-role game — find the infected before they spread."
+ },
+ {
+  "t": "Queen by Midnight",
+  "theme": "Dark princess battle royale",
+  "tags": [
+   "Fantasy",
+   "Cards"
+  ],
+  "type": "Deck-building battle royale",
+  "min": 3,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Princesses build decks and brawl until only one survives when the clock strikes twelve (Darrington Press)."
+ },
+ {
+  "t": "Twisted Cryptids (Exclusive Ed.)",
+  "theme": "Cryptid legends",
+  "tags": [
+   "Fantasy",
+   "Strategy"
+  ],
+  "type": "Hidden-movement strategy",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Play Mothman or Bigfoot: stay hidden, steer the humans, and reveal yourself at the perfect moment to build your legend."
+ },
+ {
+  "t": "Fool's Blade (+ Screaming Forest exp.)",
+  "theme": "Fantasy comedy",
+  "tags": [
+   "Fantasy",
+   "Comedy",
+   "Cards"
+  ],
+  "type": "Sword-crafting take-that",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "CircleToonsHD's chaotic card game of crafting absurd swords, questing, and sabotaging friends."
+ },
+ {
+  "t": "Good Cop Bad Cop",
+  "theme": "Cops & crooks",
+  "tags": [
+   "Party",
+   "Deduction"
+  ],
+  "type": "Hidden role",
+  "min": 4,
+  "max": 8,
+  "mode": "Team",
+  "sum": "Peek at identities and pull triggers to take out the other side's leader before yours gets shot."
+ },
+ {
+  "t": "The Resistance",
+  "theme": "Dystopian uprising",
+  "tags": [
+   "Party",
+   "Deduction"
+  ],
+  "type": "Social deduction",
+  "min": 5,
+  "max": 10,
+  "mode": "Team",
+  "sum": "Spies sabotage missions from within — accuse, deduce, and bluff with no player elimination."
+ },
+ {
+  "t": "One Night Ultimate Werewolf",
+  "theme": "Werewolves",
+  "tags": [
+   "Party",
+   "Deduction",
+   "Horror"
+  ],
+  "type": "Hidden role (10 min)",
+  "min": 3,
+  "max": 10,
+  "mode": "Team",
+  "sum": "One chaotic night of secretly swapped roles, then one vote to lynch a werewolf — or an innocent."
+ },
+ {
+  "t": "Werewords",
+  "theme": "Social deduction",
+  "tags": [
+   "Party",
+   "Word",
+   "Deduction"
+  ],
+  "type": "Word deduction",
+  "min": 4,
+  "max": 10,
+  "mode": "Team",
+  "sum": "Twenty Questions with a hidden werewolf quietly sabotaging the guessing."
+ },
+ {
+  "t": "Grimslingers",
+  "theme": "Weird West",
+  "tags": [
+   "Fantasy",
+   "Western"
+  ],
+  "type": "Card duel / co-op campaign",
+  "min": 1,
+  "max": 4,
+  "mode": "Varies",
+  "sum": "Techno-magic gunslingers duel one another or team up through a strange Forgotten West campaign."
+ },
+ {
+  "t": "Casting Shadows",
+  "theme": "Shadow-realm fantasy",
+  "tags": [
+   "Fantasy"
+  ],
+  "type": "Take-that battler",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Gather resources, transform into your shadow form, and blast rivals off the map (Unstable Games)."
+ },
+ {
+  "t": "Fairytale Gloom",
+  "theme": "Dark fairy tale comedy",
+  "tags": [
+   "Fantasy",
+   "Comedy",
+   "Cards"
+  ],
+  "type": "Storytelling card game",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Make your storybook characters miserable and kill them off using see-through stacking cards."
+ },
+ {
+  "t": "Doomlings",
+  "theme": "Cheerful apocalypse",
+  "tags": [
+   "Party",
+   "Cards"
+  ],
+  "type": "Tableau card game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Evolve delightful little creatures to survive the end of the world with the most points."
+ },
+ {
+  "t": "Cash 'n Guns (2nd Ed.)",
+  "theme": "Heist comedy",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Bluffing",
+  "min": 4,
+  "max": 8,
+  "mode": "Competitive",
+  "sum": "Point foam pistols at fellow gangsters and bluff your way to the biggest cut of the loot."
+ },
+ {
+  "t": "Wavelength",
+  "theme": "Party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Team guessing",
+  "min": 2,
+  "max": 12,
+  "mode": "Team",
+  "sum": "Guess where a hidden target sits on a spectrum from a teammate's single clue."
+ },
+ {
+  "t": "Hues and Cues",
+  "theme": "Party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Color guessing",
+  "min": 3,
+  "max": 10,
+  "mode": "Competitive",
+  "sum": "Guide the table to one exact color square using only one- and two-word clues."
+ },
+ {
+  "t": "Codenames",
+  "theme": "Spy party",
+  "tags": [
+   "Party",
+   "Word"
+  ],
+  "type": "Team word deduction",
+  "min": 2,
+  "max": 8,
+  "mode": "Team",
+  "sum": "One-word clues steer your team to the right agents on a five-by-five word grid."
+ },
+ {
+  "t": "Codenames: Pictures",
+  "theme": "Spy party",
+  "tags": [
+   "Party",
+   "Word"
+  ],
+  "type": "Team deduction",
+  "min": 2,
+  "max": 8,
+  "mode": "Team",
+  "sum": "Codenames with surreal images instead of words — clue your team to the right pictures."
+ },
+ {
+  "t": "Exploding Kittens (+ NSFW Edition)",
+  "theme": "Comedy",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Push-your-luck card",
+  "min": 2,
+  "max": 5,
+  "mode": "Competitive",
+  "sum": "Draw cards and don't explode — defuse, skip, and shuffle disaster onto your friends."
+ },
+ {
+  "t": "Here to Slay",
+  "theme": "Fantasy comedy",
+  "tags": [
+   "Fantasy",
+   "Comedy"
+  ],
+  "type": "Take-that card game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Assemble a party of adventurers and slay monsters, or sabotage everyone else's party instead."
+ },
+ {
+  "t": "Organ Attack!",
+  "theme": "Comedy anatomy",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Take-that card game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Afflict your opponents' organs and be the last player with a functioning body."
+ },
+ {
+  "t": "Herd Mentality",
+  "theme": "Party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Answer matching",
+  "min": 4,
+  "max": 20,
+  "mode": "Competitive",
+  "sum": "Write the answer you think everyone else will write; stray from the herd and you're stuck with the cow."
+ },
+ {
+  "t": "Poetry for Neanderthals",
+  "theme": "Party word game",
+  "tags": [
+   "Party",
+   "Word"
+  ],
+  "type": "Team guessing",
+  "min": 2,
+  "max": 12,
+  "mode": "Team",
+  "sum": "Give clues using only one-syllable words or get bopped with the inflatable club."
+ },
+ {
+  "t": "Funemployed",
+  "theme": "Party",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Judge-style pitching",
+  "min": 3,
+  "max": 20,
+  "mode": "Competitive",
+  "sum": "Interview for absurd jobs using the random qualification cards in your hand."
+ },
+ {
+  "t": "We're Doomed!",
+  "theme": "Satirical apocalypse",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Real-time negotiation",
+  "min": 4,
+  "max": 10,
+  "mode": "Semi-co-op",
+  "sum": "Build an escape rocket together in fifteen real-time minutes — but there aren't enough seats."
+ },
+ {
+  "t": "The Gang",
+  "theme": "Heist poker",
+  "tags": [
+   "Party",
+   "Cards"
+  ],
+  "type": "Co-op poker",
+  "min": 3,
+  "max": 6,
+  "mode": "Co-op",
+  "sum": "Silent-table Texas hold'em: rank your hands correctly as a team to crack the safe."
+ },
+ {
+  "t": "Cards Against Humanity",
+  "theme": "Adult party",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Judge-style card game",
+  "min": 4,
+  "max": 20,
+  "mode": "Competitive",
+  "sum": "Fill in the blank with the most horrible answer your judge will love."
+ },
+ {
+  "t": "The Game of Things",
+  "theme": "Party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Guess who wrote it",
+  "min": 4,
+  "max": 15,
+  "mode": "Competitive",
+  "sum": "Read a prompt, write something funny, then guess who wrote what."
+ },
+ {
+  "t": "Anomia (x2 boxes)",
+  "theme": "Party",
+  "tags": [
+   "Party",
+   "Word"
+  ],
+  "type": "Speed matching",
+  "min": 3,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "When symbols match, race to shout an example of your opponent's category first."
+ },
+ {
+  "t": "Flip 7 (+ With a Vengeance exp.)",
+  "theme": "Card game",
+  "tags": [
+   "Party",
+   "Cards"
+  ],
+  "type": "Push-your-luck",
+  "min": 3,
+  "max": 18,
+  "mode": "Competitive",
+  "sum": "Keep flipping for points but bust on a duplicate — seven unique cards is the jackpot."
+ },
+ {
+  "t": "Runes & Regulations (+ Nefarious Neighbor exp.)",
+  "theme": "Suburban fantasy",
+  "tags": [
+   "Party",
+   "Comedy",
+   "Fantasy"
+  ],
+  "type": "Take-that card game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Suburban wizards one-up the neighbors with mythical pets and HOA-grade pettiness."
+ },
+ {
+  "t": "Moose Master",
+  "theme": "Party",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Silly rules party game",
+  "min": 3,
+  "max": 10,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Follow ridiculous card rules without cracking — laugh-until-you-cry family party game."
+ },
+ {
+  "t": "Heart and Brain: The Party Game",
+  "theme": "Awkward Yeti comedy",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Challenge/dare party game",
+  "min": 3,
+  "max": 8,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Challenges, dares, and scenarios from the Heart and Brain webcomic."
+ },
+ {
+  "t": "That's Not a Hat",
+  "theme": "Party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Memory bluffing",
+  "min": 3,
+  "max": 8,
+  "mode": "Competitive",
+  "sum": "Pass gifts around the table and bluff about what's on the face-down card, because nobody remembers."
+ },
+ {
+  "t": "The F'ing Truth",
+  "theme": "Party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Bluff / trivia party game",
+  "min": 4,
+  "max": 10,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Guess who's telling the truth and who's making it up."
+ },
+ {
+  "t": "The Movie Movie Game",
+  "theme": "Film buff party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Movie guessing",
+  "min": 4,
+  "max": 20,
+  "mode": "Team",
+  "v": true,
+  "sum": "Act, describe, and quote your way through movie prompts."
+ },
+ {
+  "t": "Scattergories",
+  "theme": "Word classic",
+  "tags": [
+   "Classic",
+   "Word",
+   "Party"
+  ],
+  "type": "Category brainstorm",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Race the timer to name unique things in each category starting with the rolled letter."
+ },
+ {
+  "t": "Wits & Wagers (Deluxe Ed.)",
+  "theme": "Trivia betting",
+  "tags": [
+   "Party"
+  ],
+  "type": "Trivia + wagering",
+  "min": 3,
+  "max": 21,
+  "mode": "Competitive",
+  "sum": "Nobody knows the answers — bet on whichever guess at the table looks closest."
+ },
+ {
+  "t": "Trial by Trolley (Cyanide & Happiness)",
+  "theme": "Dark comedy ethics",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Judge-style dilemma",
+  "min": 3,
+  "max": 13,
+  "mode": "Competitive",
+  "sum": "Stack the trolley tracks with innocents and monsters, then argue who deserves to get run over."
+ },
+ {
+  "t": "TACTA",
+  "theme": "Abstract",
+  "tags": [
+   "Dexterity"
+  ],
+  "type": "Card-connection dexterity",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Bend and connect cards corner-to-corner in a growing tabletop web."
+ },
+ {
+  "t": "Wooden stacking tower (Jenga-style)",
+  "theme": "Dexterity classic",
+  "tags": [
+   "Dexterity",
+   "Classic"
+  ],
+  "type": "Block stacking",
+  "min": 1,
+  "max": 8,
+  "mode": "Competitive",
+  "sum": "Pull blocks, restack them, and try not to be the one who topples the tower."
+ },
+ {
+  "t": "Dorfromantik: The Board Game",
+  "theme": "Pastoral landscape",
+  "tags": [
+   "Cozy"
+  ],
+  "type": "Co-op tile laying",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "sum": "Lay hex tiles to grow a peaceful countryside and complete villagers' requests together."
+ },
+ {
+  "t": "Obsession",
+  "theme": "Victorian England",
+  "tags": [
+   "Historical",
+   "Engine"
+  ],
+  "type": "Estate building",
+  "min": 1,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Run an English estate, court the gentry, and manage your servants in Austen-era society."
+ },
+ {
+  "t": "Scrabble (Deluxe Edition)",
+  "theme": "Word classic",
+  "tags": [
+   "Classic",
+   "Word"
+  ],
+  "type": "Tile laying",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "The crossword-building classic on a deluxe rotating board."
+ },
+ {
+  "t": "Stratego Original",
+  "theme": "War classic",
+  "tags": [
+   "Classic"
+  ],
+  "type": "Hidden-information strategy",
+  "min": 2,
+  "max": 2,
+  "mode": "Competitive",
+  "sum": "Hidden ranks clash as two armies hunt each other's flag."
+ },
+ {
+  "t": "Catan",
+  "theme": "Settlement trading",
+  "tags": [
+   "Classic",
+   "Strategy"
+  ],
+  "type": "Network building / trading",
+  "min": 3,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Trade wood for sheep and race to ten points settling the island."
+ },
+ {
+  "t": "Splendor",
+  "theme": "Renaissance gems",
+  "tags": [
+   "Strategy",
+   "Engine"
+  ],
+  "type": "Engine builder",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "A chip-stacking gem engine where cheap cards discount better ones until prestige piles up."
+ },
+ {
+  "t": "Everdell",
+  "theme": "Woodland fantasy",
+  "tags": [
+   "Fantasy",
+   "Cozy",
+   "Engine"
+  ],
+  "type": "Worker placement + tableau",
+  "min": 1,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Forest critters build a charming city of cards across the seasons beneath the Ever Tree."
+ },
+ {
+  "t": "Wyrmspan",
+  "theme": "Dragons",
+  "tags": [
+   "Fantasy",
+   "Engine"
+  ],
+  "type": "Engine builder",
+  "min": 1,
+  "max": 5,
+  "mode": "Competitive",
+  "sum": "Wingspan's engine-building reworked around excavating caves and attracting dragons."
+ },
+ {
+  "t": "Kabuto Sumo",
+  "theme": "Bug wrestling",
+  "tags": [
+   "Dexterity"
+  ],
+  "type": "Dexterity coin-pusher",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Slide wooden discs to shove rival beetles out of the sumo ring."
+ },
+ {
+  "t": "Champions of Midgard",
+  "theme": "Viking fantasy",
+  "tags": [
+   "Fantasy",
+   "Strategy"
+  ],
+  "type": "Worker placement + dice combat",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Place workers, then send warriors to dice it out with trolls and draugr for glory."
+ },
+ {
+  "t": "Lords of Waterdeep (+ Scoundrels of Skullport exp.)",
+  "theme": "D&D city intrigue",
+  "tags": [
+   "D&D",
+   "Strategy"
+  ],
+  "type": "Worker placement",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Masked lords complete quests and play intrigue in D&D's most famous city; the expansion adds corruption and a sixth player."
+ },
+ {
+  "t": "Gloomhaven",
+  "theme": "Dark fantasy",
+  "tags": [
+   "Fantasy",
+   "Campaign"
+  ],
+  "type": "Campaign tactical combat",
+  "min": 1,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "A massive legacy-style campaign of card-driven tactical dungeon combat."
+ },
+ {
+  "t": "Mage Knight: Ultimate Edition",
+  "theme": "Fantasy conquest",
+  "tags": [
+   "Fantasy",
+   "Strategy",
+   "Solo"
+  ],
+  "type": "Deckbuilding adventure",
+  "min": 1,
+  "max": 5,
+  "mode": "Varies",
+  "sum": "Brain-burning deckbuilt exploration and conquest; brutal solo, co-op, or competitive."
+ },
+ {
+  "t": "Stardew Valley: The Board Game",
+  "theme": "Farming",
+  "tags": [
+   "Cozy"
+  ],
+  "type": "Co-op resource management",
+  "min": 1,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "Restore the valley and the community center together, one season at a time."
+ },
+ {
+  "t": "The City of Kings",
+  "theme": "Fantasy",
+  "tags": [
+   "Fantasy",
+   "Campaign"
+  ],
+  "type": "Co-op tactical RPG",
+  "min": 1,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "A diceless co-op RPG: build characters, gather resources, and topple procedurally generated monsters."
+ },
+ {
+  "t": "The Grimm Forest",
+  "theme": "Fairy tale",
+  "tags": [
+   "Fantasy"
+  ],
+  "type": "Hidden-action strategy",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Little pigs race to build houses while fable cards and a huffing wolf wreck plans."
+ },
+ {
+  "t": "Dragonlance: Warriors of Krynn",
+  "theme": "D&D war",
+  "tags": [
+   "D&D",
+   "Fantasy"
+  ],
+  "type": "Co-op battle scenarios",
+  "min": 3,
+  "max": 5,
+  "mode": "Co-op",
+  "sum": "Fight the War of the Lance in scenario battles tied to the Dragonlance novels."
+ },
+ {
+  "t": "Dungeon Digger",
+  "theme": "Dungeon building",
+  "tags": [
+   "Fantasy",
+   "Strategy"
+  ],
+  "type": "Strategic dungeon builder",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Rival dungeon lords excavate and build the nastiest dungeon (Tin Hat Games)."
+ },
+ {
+  "t": "One Deck Dungeon",
+  "theme": "Fantasy roguelike",
+  "tags": [
+   "Fantasy",
+   "Solo"
+  ],
+  "type": "Dice-placement crawler",
+  "min": 1,
+  "max": 2,
+  "mode": "Co-op",
+  "sum": "A pocket dungeon crawl: roll dice to beat encounters, level up, and face the boss."
+ },
+ {
+  "t": "Command of Nature (x3 boxes incl. exps.)",
+  "theme": "Elemental forest",
+  "tags": [
+   "Fantasy",
+   "Cards"
+  ],
+  "type": "Dueling deck battler",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Sages summon Twig, Leaf, Droplet, and Pebble warriors in a head-to-head (or 2v2) formation battle."
+ },
+ {
+  "t": "Xenolanguage",
+  "theme": "Sci-fi first contact",
+  "tags": [
+   "Sci-fi",
+   "Narrative"
+  ],
+  "type": "Narrative / story game",
+  "min": 3,
+  "max": 5,
+  "mode": "Co-op",
+  "v": true,
+  "sum": "Arrival-inspired table talk: decode an alien language that rewrites your characters' memories."
+ },
+ {
+  "t": "What Next?",
+  "theme": "Adventure party",
+  "tags": [
+   "Party"
+  ],
+  "type": "Real-time co-op adventure",
+  "min": 1,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "A pick-your-path adventure run on real-time dexterity minigames (about 40 minutes)."
+ },
+ {
+  "t": "Pandemic",
+  "theme": "Global outbreak",
+  "tags": [
+   "Strategy"
+  ],
+  "type": "Co-op optimization",
+  "min": 2,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "Cure four diseases before outbreaks cascade across the globe."
+ },
+ {
+  "t": "Pandemic Legacy: Season 1 (x2 copies!)",
+  "theme": "Outbreak thriller",
+  "tags": [
+   "Strategy",
+   "Campaign"
+  ],
+  "type": "Legacy co-op",
+  "min": 2,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "A year-long campaign where the world — and your physical board — changes permanently. You own both the blue and red box variants."
+ },
+ {
+  "t": "Forbidden Desert",
+  "theme": "Desert survival",
+  "tags": [
+   "Strategy"
+  ],
+  "type": "Co-op action optimization",
+  "min": 2,
+  "max": 5,
+  "mode": "Co-op",
+  "sum": "Dig a buried flying machine out of a shifting, storm-blasted desert before you run out of water."
+ },
+ {
+  "t": "Tsuro",
+  "theme": "Path laying",
+  "tags": [
+   "Classic",
+   "Strategy"
+  ],
+  "type": "Abstract tile laying",
+  "min": 2,
+  "max": 8,
+  "mode": "Competitive",
+  "sum": "Lay path tiles and stay on the board — elegantly cutthroat in fifteen minutes."
+ },
+ {
+  "t": "Rise to Nobility",
+  "theme": "Fantasy city",
+  "tags": [
+   "Fantasy",
+   "Strategy"
+  ],
+  "type": "Dice worker placement",
+  "min": 1,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Build a settlement and climb the social ladder in the Five Realms."
+ },
+ {
+  "t": "Villainous",
+  "theme": "Disney villains",
+  "tags": [
+   "Fantasy",
+   "Strategy"
+  ],
+  "type": "Asymmetric strategy",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Each villain chases their own movie-specific win condition while heroes get flung in their way."
+ },
+ {
+  "t": "A Game of Thrones: The Board Game",
+  "theme": "Westeros politics",
+  "tags": [
+   "Fantasy",
+   "Strategy"
+  ],
+  "type": "Area control / negotiation",
+  "min": 3,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Alliances, betrayal, and armies as the great houses fight for the Iron Throne."
+ },
+ {
+  "t": "Diplomacy",
+  "theme": "WWI Europe",
+  "tags": [
+   "Classic",
+   "Strategy"
+  ],
+  "type": "Pure negotiation",
+  "min": 2,
+  "max": 7,
+  "mode": "Competitive",
+  "sum": "The legendary friendship-ender: no dice, just promises you're going to break."
+ },
+ {
+  "t": "Once Upon a Time",
+  "theme": "Fairy tale storytelling",
+  "tags": [
+   "Fantasy",
+   "Narrative"
+  ],
+  "type": "Storytelling card game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Steer a collaborative fairy tale toward your secret ending using story cards."
+ },
+ {
+  "t": "Cytosis: A Cell Biology Game",
+  "theme": "Cell biology",
+  "tags": [
+   "Strategy"
+  ],
+  "type": "Worker placement",
+  "min": 2,
+  "max": 5,
+  "mode": "Competitive",
+  "sum": "Place workers inside a human cell to build proteins and enzymes — real science, solid euro."
+ },
+ {
+  "t": "The Networks",
+  "theme": "TV networks",
+  "tags": [
+   "Strategy",
+   "Comedy"
+  ],
+  "type": "Card drafting / engine",
+  "min": 1,
+  "max": 5,
+  "mode": "Competitive",
+  "sum": "Run a fledgling TV network: sign stars, land ads, and chase viewers with terrible shows."
+ },
+ {
+  "t": "King of Tokyo",
+  "theme": "Kaiju brawl",
+  "tags": [
+   "Party",
+   "Strategy"
+  ],
+  "type": "Dice brawler",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Yahtzee-style dice, giant monsters, one Tokyo — smash your way to king of the hill."
+ },
+ {
+  "t": "Munchkin Deluxe",
+  "theme": "Dungeon satire",
+  "tags": [
+   "Fantasy",
+   "Comedy",
+   "Cards"
+  ],
+  "type": "Take-that card game",
+  "min": 3,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Kill the monsters, steal the treasure, stab your buddy."
+ },
+ {
+  "t": "Munchkin: Critical Role",
+  "theme": "Critical Role",
+  "tags": [
+   "Fantasy",
+   "Comedy",
+   "Cards"
+  ],
+  "type": "Take-that card game",
+  "min": 3,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Munchkin dressed up as the Mighty Nein."
+ },
+ {
+  "t": "Stop Thief!",
+  "theme": "Cops & robbers",
+  "tags": [
+   "Deduction",
+   "Classic"
+  ],
+  "type": "App-assisted deduction",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "An invisible thief sneaks around the board making app sound clues — triangulate and catch them."
+ },
+ {
+  "t": "EXIT: The Game — The Sunken Treasure",
+  "theme": "Escape room",
+  "tags": [
+   "Mystery",
+   "Escape room"
+  ],
+  "type": "Escape room in a box",
+  "min": 1,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "A one-time-play puzzle box: escape the sunken shipwreck by solving (and destroying) the components."
+ },
+ {
+  "t": "Star Trek Strange New Worlds: Mary Celeste",
+  "theme": "Star Trek mystery",
+  "tags": [
+   "Sci-fi",
+   "Mystery",
+   "Escape room"
+  ],
+  "type": "Escape room in a box",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "sum": "An escape-room adventure aboard the Enterprise, chasing the mystery of the Mary Celeste."
+ },
+ {
+  "t": "Brave New Worlds",
+  "theme": "Space exploration",
+  "tags": [
+   "Sci-fi"
+  ],
+  "type": "Race for discovery",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "A space-probe race featuring real imagery from New Horizons, Voyager, Juno, and Cassini."
+ },
+ {
+  "t": "Appalachian Trail Game",
+  "theme": "Hiking",
+  "tags": [
+   "Cozy"
+  ],
+  "type": "Family trail game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "A wooden-box family game for hikers, made for trail lovers, teachers, and scouts."
+ },
+ {
+  "t": "Challenge (Appalachian Trail ed.)",
+  "theme": "Hiking education",
+  "tags": [
+   "Cozy"
+  ],
+  "type": "Trail trivia / learning",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Learn hiking first aid, Leave No Trace camping, plant ID, and trail history as you play."
+ },
+ {
+  "t": "Dialect",
+  "theme": "Isolated community",
+  "tags": [
+   "Narrative"
+  ],
+  "type": "GM-less story game",
+  "min": 3,
+  "max": 5,
+  "mode": "Co-op",
+  "sum": "Build the language of an isolated community — and watch it die — in this quietly devastating RPG."
+ },
+ {
+  "t": "The Lady and the Tiger",
+  "theme": "Fable bluffing",
+  "tags": [
+   "Cards"
+  ],
+  "type": "Five micro games in one",
+  "min": 2,
+  "max": 2,
+  "mode": "Competitive",
+  "sum": "One small deck, five different two-player games of deduction and bluffing."
+ },
+ {
+  "t": "The Tea Dragon Society Card Game",
+  "theme": "Cozy fantasy",
+  "tags": [
+   "Cozy",
+   "Cards"
+  ],
+  "type": "Deck builder",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Gentle deck-building about raising your very own tea dragon through the seasons."
+ },
+ {
+  "t": "Beach-A-Palooza (Steven Universe)",
+  "theme": "Steven Universe",
+  "tags": [
+   "Cards"
+  ],
+  "type": "Card battling",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Beach City card battles with the Crystal Gems."
+ },
+ {
+  "t": "Trivial Pursuit: The Nightmare Before Christmas (quick play)",
+  "theme": "Tim Burton trivia",
+  "tags": [
+   "Classic",
+   "Party"
+  ],
+  "type": "Trivia",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "Bite-size Trivial Pursuit stuffed with Halloween Town questions."
+ },
+ {
+  "t": "Clue: Bob's Burgers Edition",
+  "theme": "Mystery / TV",
+  "tags": [
+   "Classic",
+   "Deduction"
+  ],
+  "type": "Deduction",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "The classic whodunit re-skinned with the Belcher family."
+ },
+ {
+  "t": "Monopoly: Bob's Burgers Edition",
+  "theme": "Family / TV",
+  "tags": [
+   "Classic"
+  ],
+  "type": "Roll-and-move trading",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Buy up Bob's Burgers landmarks in themed Monopoly."
+ },
+ {
+  "t": "Monopoly: The Nightmare Before Christmas",
+  "theme": "Tim Burton",
+  "tags": [
+   "Classic"
+  ],
+  "type": "Roll-and-move trading",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Jack Skellington Monopoly with collectible pewter tokens."
+ },
+ {
+  "t": "Magic: The Gathering (Bloomburrow Commander decks + Avatar: The Last Airbender)",
+  "theme": "Fantasy TCG",
+  "tags": [
+   "Fantasy",
+   "Cards"
+  ],
+  "type": "Trading card game",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Preconstructed Commander decks and sets for multiplayer Magic nights."
+ },
+ {
+  "t": "Secret Hitler",
+  "theme": "1930s political intrigue",
+  "tags": [
+   "Party",
+   "Deduction"
+  ],
+  "type": "Hidden role",
+  "min": 5,
+  "max": 10,
+  "mode": "Team",
+  "sum": "Liberals pass policies and sniff out lies while secret fascists scheme to elect Hitler chancellor."
+ },
+ {
+  "t": "Cat Tower",
+  "theme": "Cats",
+  "tags": [
+   "Dexterity"
+  ],
+  "type": "Stacking dexterity",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Stack wobbly folded-cardboard cats as the dice demand — don't be the one who topples the pile."
+ },
+ {
+  "t": "Sign: A Game About Being Understood",
+  "theme": "Deaf history",
+  "tags": [
+   "Narrative"
+  ],
+  "type": "GM-less story game",
+  "min": 3,
+  "max": 7,
+  "mode": "Co-op",
+  "v": true,
+  "sum": "From Dialect's makers: play deaf children in 1970s Nicaragua inventing a language together, played largely in silence."
+ },
+ {
+  "t": "Earth 667C",
+  "theme": "Solar apocalypse",
+  "tags": [
+   "Sci-fi"
+  ],
+  "type": "Spaceship-building race",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "The sun is going supernova: build your ark, launch in time, and survive the journey to humanity's new home."
+ },
+ {
+  "t": "The 7th Continent",
+  "theme": "Cursed exploration",
+  "tags": [
+   "Campaign",
+   "Solo"
+  ],
+  "type": "Co-op card exploration",
+  "min": 1,
+  "max": 4,
+  "mode": "Co-op",
+  "sum": "A vast card-built continent you explore, forage, and probably die on across long, save-able expeditions."
+ },
+ {
+  "t": "Scythe",
+  "theme": "Alt-history 1920s",
+  "tags": [
+   "Strategy",
+   "Engine"
+  ],
+  "type": "Engine building + area control",
+  "min": 1,
+  "max": 5,
+  "mode": "Competitive",
+  "sum": "Mech-farming factions expand across war-scarred Europa — resource engines, tense standoffs, gorgeous art."
+ },
+ {
+  "t": "Drag Match",
+  "theme": "Drag party",
+  "tags": [
+   "Party",
+   "Comedy"
+  ],
+  "type": "Party matching game",
+  "min": 3,
+  "max": 10,
+  "mode": "Competitive",
+  "v": true,
+  "sum": "A drag-themed party game of fierce matchups and even fiercer judging."
+ },
+ {
+  "t": "Monopoly: Silver Line Edition",
+  "theme": "Family classic",
+  "tags": [
+   "Classic"
+  ],
+  "type": "Roll-and-move trading",
+  "min": 2,
+  "max": 6,
+  "mode": "Competitive",
+  "sum": "Monopoly in sleek silver-and-black."
+ },
+ {
+  "t": "Codenames: Fairy Tales & Cute Critters (packs)",
+  "theme": "Spy party",
+  "tags": [
+   "Party",
+   "Word"
+  ],
+  "type": "Codenames expansion packs",
+  "min": 2,
+  "max": 8,
+  "mode": "Team",
+  "sum": "Themed mini card packs to shuffle into your Codenames nights."
+ },
+ {
+  "t": "Star Trek Picard: Murder on the Titan-A",
+  "theme": "Starfleet murder mystery",
+  "tags": [
+   "Sci-fi",
+   "Mystery"
+  ],
+  "type": "AR-assisted mystery in a box",
+  "min": 1,
+  "max": 6,
+  "mode": "Co-op",
+  "sum": "Analyze evidence and scan the AR Starfleet badge to clear Captain Shaw of a Klingon councilor's murder."
+ },
+ {
+  "t": "Arkham Horror: The Card Game",
+  "theme": "Lovecraftian horror",
+  "tags": [
+   "Horror",
+   "Lovecraft",
+   "Cards",
+   "Campaign"
+  ],
+  "type": "Co-op living card game",
+  "min": 1,
+  "max": 2,
+  "mode": "Co-op",
+  "sum": "Deck-built investigators play through branching narrative campaigns (1-2 players per core set; 4 with two cores)."
+ },
+ {
+  "t": "Grow: The Organic Building Game",
+  "theme": "Tree growing",
+  "tags": [
+   "Cozy",
+   "Strategy"
+  ],
+  "type": "3-D building / territory",
+  "min": 2,
+  "max": 4,
+  "mode": "Competitive",
+  "sum": "Grow a sculptural wooden tree branch by branch and blossom your flowers in the best spots."
+ }
+]
